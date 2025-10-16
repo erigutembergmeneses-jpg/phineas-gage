@@ -14,4 +14,4 @@ O site inclui:
 
 ## 🌐 Acesso ao Site
 
-Após ativar o GitHub Pages, o site estará disponível em:
+Após ativar o GitHub Pages, o site estará disponível em: https://erigutembergmeneses-jpg.github.io/phineas-gage/
